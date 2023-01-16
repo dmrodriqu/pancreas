@@ -1,6 +1,6 @@
 # Volume rendering of Pancreatic Ductal Adenocarcinoma
 
-Methods are a much simplified API on top of the python VTK wrapper for isosurface and volume rendering.
+Methods are a much simplified module on top of the python VTK wrapper for isosurface and volume rendering.
 
 Input file, values for volumes, isosurfaces, their color transer functions, and opacities.
 
